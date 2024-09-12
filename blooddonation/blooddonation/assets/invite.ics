@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Student Interviews:mailto:Studentinterviews@homeoffice.gov.uk
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=PAUL.GITAH
+ I.101@GMAIL.COM:mailto:PAUL.GITAHI.101@GMAIL.COM
+DESCRIPTION;LANGUAGE=en-US:Dear   Paul Gitahi Mwangi\n\n\n\n\n\n\n\n\nI am 
+ contacting you from the UK Visa Centre in Sheffield regarding your Student
+  application. We are currently considering this application and would like
+  to contact you on Microsoft Teams to conduct an interview with you.  
+ \n\n  \n\nPlease download "Microsoft Teams" and follow the link below 
+ to access your meeting. Your Microsoft Teams interview has been booked on 
+ the date and time below:  \n\n  \n\nInterview date:  03/07/2024\n\
+ n\n\nInterview time (Local):  6:00pm\n\n\n\nInterview time (UK):  4:00pm\n
+ \n\n\n  \n\nPlease read the below information carefully\n\n  \n\nC
+ onfirming Your Interview:\n\n  \n\nYou are required to confirm that yo
+ u will be available to complete this interview. Please send your reply to 
+ studentinterviews@homeoffice.gov.uk<mailto:studentinterviews@homeoffice.go
+ v.uk> and include your application reference number (GWF) in all correspon
+ dence.   \n\n  \n\n·                You should notify us as soo
+ n as possible if for any reason you cannot complete your interview\n\n 
+  \n\n·                Failure to complete the interview without prior n
+ otice may impact negatively on the visa application\n\n  \n\nYour Inte
+ rview:\n\n  \n\nYou will be interviewed via MS Teams by a Home Office 
+ interviewer and will be asked questions regarding the application and the 
+ evidence that was provided with it.  \n\n  \n\nThe Entry Clearance
+  Officer will have conducted background checks and reviewed all the docume
+ nts and will give you the opportunity to explain any discrepancies or prov
+ ide further information during the interview.  \n\n  \n\n·       
+          Interviews will be carried out via video. Applicant will be requi
+ red to have access to: A laptop with a working webcam and good internet co
+ nnection\n\n\n\n·                The interviewer will ask to confirm your
+  identification before the interview. Please have a form of ID to hand\n\n
+ ·                Please note that the interview could take up to 90 minut
+ es to complete\n\n  \n\n·                If we are unable to complete
+  the interview by MS Teams\, we may schedule an interview for you at the V
+ isa Application Centre where possible. This will be at the discretion of t
+ he interviewer\n\n\n\n \n\n·                To understand how we may us
+ e your information\, please see our Privacy Information Notice<https://www
+ .gov.uk/government/publications/personal-information-use-in-borders-immigr
+ ation-and-citizenship/borders-immigration-and-citizenship-privacy-informat
+ ion-notice>\n\n  \n\nLanguage: \n\n  \n\n·                 Yo
+ ur interview will be conducted in English\n\n  \n\nIf you have any que
+ ries regarding your interview\, please don’t hesitate to get in touch vi
+ a studentinterviews@homeoffice.gov.uk<mailto:studentinterviews@homeoffice.
+ gov.uk>\n\n  \n\nKind Regards\, \n\n  \n\nStudent Interview Team
+  \n\n\n\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt
+ =en-US>\nJoin the meeting now<https://teams.microsoft.com/l/meetup-join/19
+ %3ameeting_ZGUyODAzZjEtMmU1YS00ZjIxLTgzOTAtZGIxMmMzN2ZiY2Q1%40thread.v2/0?
+ context=%7b%22Tid%22%3a%22f24d93ec-b291-4192-a08a-f182245945c2%22%2c%22Oid
+ %22%3a%224451abb0-77fd-4b3e-8ebe-c6169bcb3285%22%7d>\nMeeting ID: 356 568 
+ 393 232\nPasscode: Voet3D\n________________________________\nDial in by ph
+ one\n+44 20 3321 5213\,\,133715893#<tel:+442033215213\,\,133715893> United
+  Kingdom\, London\nFind a local number<https://dialin.teams.microsoft.com/
+ 6ebb01ce-77a4-4ff5-a228-60eb151bc8e4?id=133715893>\nPhone conference ID: 1
+ 33 715 893#\nJoin on a video conferencing device\nTenant key: 547874328@t.
+ plcm.vc<mailto:547874328@t.plcm.vc>\nVideo ID: 126 188 353 5\nMore info<ht
+ tps://dialin.plcm.vc/teams/?key=547874328&conf=1261883535>\nFor organizers
+ : Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=
+ 4451abb0-77fd-4b3e-8ebe-c6169bcb3285&tenantId=f24d93ec-b291-4192-a08a-f182
+ 245945c2&threadId=19_meeting_ZGUyODAzZjEtMmU1YS00ZjIxLTgzOTAtZGIxMmMzN2ZiY
+ 2Q1@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dial
+ in.teams.microsoft.com/usp/pstnconferencing>\n\n**************************
+ ********************************************\nThis email and any files tra
+ nsmitted with it are private and intended\nsolely for the use of the indiv
+ idual or entity to whom they are addressed.\nIf you have received this ema
+ il in error please return it to the address\nit came from telling them it 
+ is not for you and then delete it from your system.\nThis email message ha
+ s been swept for computer viruses.\n**************************************
+ ********************************\n
+UID:040000008200E00074C5B7101A82E00800000000C04981157EC8DA01000000000000000
+ 0100000000BF843E902EBC64AA4D56ABE6FDA9740
+SUMMARY;LANGUAGE=en-US:GWF077619092
+DTSTART;TZID=GMT Standard Time:20240703T160000
+DTEND;TZID=GMT Standard Time:20240703T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240627T094443Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:748382184
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
